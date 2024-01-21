@@ -11,16 +11,16 @@ body, html{
   position: relative;
   margin: 40px auto;
   height: auto;
-  width: 500px;
+  width: 400px;
   padding: 20px;
 }
 
 h2 {
-  color: #632323;
+  color: #6ad80a;
 }
 
 .container ul{
-  list-style: none;
+  list-style: square;
   margin: 0;
   padding: 0;
   overflow: auto;
